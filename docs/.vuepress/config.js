@@ -75,8 +75,8 @@ module.exports = {
                     { 
                         text: 'config', 
                         items: [
-                            { text: 'base', link: '/config/base/', target: '_blank' },
-                            { text: 'high', link: '/config/high/', target: '_blank' }
+                            { text: 'base', link: '/config/base/' },
+                            { text: 'high', link: '/config/high/' }
                         ]
                     }
                 ],
