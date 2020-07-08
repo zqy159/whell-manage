@@ -10,5 +10,9 @@
   "author": " <648889757@qq.com>",
   "license": "ISC",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "codemirror": "^5.55.0",
+    "vuep": "^0.8.1"
+  }
 }

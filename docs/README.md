@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /images/logo.png
-heroText: 文档管理
+heroText: whellManage
 tagline: 使用手册
 actionText: 快速上手 →
 actionLink: /guide/
